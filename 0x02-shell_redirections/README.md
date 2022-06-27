@@ -6,3 +6,4 @@
 5) How to display the first 10 lines of a file
 6) How to display the third line of a file
 7) Creating a file with a text in it
+8) How to write the result of a command in a new file. The result overwrite the content of the file if it already exist
