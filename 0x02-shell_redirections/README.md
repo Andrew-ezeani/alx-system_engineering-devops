@@ -10,3 +10,4 @@
 9) How to write a script that duplicates the last line of a given file
 10) Deleting all regular files of a particular type of file (eg .js) from all folders and sub-folders in the current directory
 11) This script counts the number of directories and sub-directories including hidden directories in the current directory but excluding the current and parent directories
+12) This script displays the 10 newest files in the current directory. Sorting the files from newest to oldest and displaying each file on a new line
