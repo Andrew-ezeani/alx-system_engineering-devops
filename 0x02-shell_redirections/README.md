@@ -11,3 +11,4 @@
 10) Deleting all regular files of a particular type of file (eg .js) from all folders and sub-folders in the current directory
 11) This script counts the number of directories and sub-directories including hidden directories in the current directory but excluding the current and parent directories
 12) This script displays the 10 newest files in the current directory. Sorting the files from newest to oldest and displaying each file on a new line
+13) This script takes a list of words as input and prints only words that appear exactly once.
