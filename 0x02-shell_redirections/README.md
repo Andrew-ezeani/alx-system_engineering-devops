@@ -4,4 +4,5 @@
 3) How to display the contents of two different files
 4) How to display the last 10 lines of a file
 5) How to display the first 10 lines of a file
-How to display the third line of a file
+6) How to display the third line of a file
+7) Creating a file with a text in it
