@@ -8,3 +8,4 @@
 7) Creating a file with a text in it
 8) How to write the result of a command in a new file. The result overwrite the content of the file if it already exist
 9) How to write a script that duplicates the last line of a given file
+10) Deleting all regular files of a particular type of file (eg .js) from all folders and sub-folders in the current directory
