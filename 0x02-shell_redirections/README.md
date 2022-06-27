@@ -22,3 +22,4 @@
 21) This script reverse it's input
 22) This script displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
 23) This script finds all empty files and directories in the current directory and all sub-directories.
+24) This script  lists all the files with a .gif extension in the current directory and all its sub-directories.
