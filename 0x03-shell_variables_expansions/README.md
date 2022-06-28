@@ -5,3 +5,4 @@
 4) This script prints a list of environment variables
 5) This script creates lists all local variables and environment variables, and functions.
 6) This script creates a new local variable with name BEST and value School
+7) This script creates a global variable with name BEST and value school
